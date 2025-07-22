@@ -106,21 +106,15 @@ Open your browser and go to http://localhost:5000
 ]
 }
 
-📌 Future Improvements
-
-Add login authentication for student-specific queries
-
-Connect to live college database (timetable, faculty availability, etc.)
-
-Support voice input using SpeechRecognition
-
-Add Hindi/Punjabi language support
 
 👨‍💻 Developed By
 
 Tanmay Kumar
+
 B.Tech Information Technology
+
 Guru Nanak Dev Engineering College (GNE), Ludhiana
+
 GitHub: https://github.com/tanmaykumar19
 
 📄 License
