@@ -23,7 +23,7 @@ Easy to train and customize using intents.json
 Built with Flask, PyTorch, and NLTK
 
 📷 Demo
-![Demo Screenshot](demo.png)
+!(demo.png)
 
 
 
