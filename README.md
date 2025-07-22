@@ -121,7 +121,7 @@ Add Hindi/Punjabi language support
 Tanmay Kumar
 B.Tech Information Technology
 Guru Nanak Dev Engineering College (GNE), Ludhiana
-GitHub: https://github.com/tanmaykumar-info
+GitHub: https://github.com/tanmaykumar19
 
 📄 License
 
